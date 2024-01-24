@@ -3,7 +3,7 @@
 ;; Copyright (c) 2015 Adam Schwalm
 
 ;; Author: Adam Schwalm <adamschwalm@gmail.com>
-;; Version: 0.2.0
+;; Version: 0.2.1
 ;; URL: https://github.com/ALSchwalm/flycheck-nim
 ;; Package-Requires: ((dash "2.4.0") (flycheck "0.20"))
 
